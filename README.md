@@ -1,4 +1,4 @@
-![Biopython logo](/Users/avarela/Biopython/docs/biopython_logo)
+![Biopython logo](https://github.com/avarela6630/Biopython/blob/master/docs/biopython_logo/biopython_logo.svg)
 # Biopython  
 
 ## Description 
